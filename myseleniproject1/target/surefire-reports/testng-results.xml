@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-11T18:10:42Z" name="Surefire suite" finished-at="2023-05-11T18:10:50Z" duration-ms="8649">
+    <groups>
+    </groups>
+    <test started-at="2023-05-11T18:10:42Z" name="Surefire test" finished-at="2023-05-11T18:10:50Z" duration-ms="8649">
+      <class name="test.itexps.com.MySeleniumTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.itexps.com.MySeleniumTest@1c72da34]" started-at="2023-05-11T13:10:42Z" name="setUpClass" finished-at="2023-05-11T13:10:42Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.itexps.com.MySeleniumTest@1c72da34]" started-at="2023-05-11T13:10:42Z" name="setUpMethod" finished-at="2023-05-11T13:10:44Z" duration-ms="2244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testGoogle()[pri:0, instance:test.itexps.com.MySeleniumTest@1c72da34]" started-at="2023-05-11T13:10:44Z" name="testGoogle" finished-at="2023-05-11T13:10:45Z" duration-ms="1408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.itexps.com.MySeleniumTest@1c72da34]" started-at="2023-05-11T13:10:45Z" name="setUpMethod" finished-at="2023-05-11T13:10:46Z" duration-ms="944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.itexps.com.MySeleniumTest@1c72da34]" started-at="2023-05-11T13:10:45Z" name="tearDownMethod" finished-at="2023-05-11T13:10:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testItexps()[pri:0, instance:test.itexps.com.MySeleniumTest@1c72da34]" started-at="2023-05-11T13:10:46Z" name="testItexps" finished-at="2023-05-11T13:10:50Z" duration-ms="4032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testItexps -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.itexps.com.MySeleniumTest@1c72da34]" started-at="2023-05-11T13:10:50Z" name="tearDownMethod" finished-at="2023-05-11T13:10:50Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.itexps.com.MySeleniumTest@1c72da34]" started-at="2023-05-11T13:10:50Z" name="tearDownClass" finished-at="2023-05-11T13:10:50Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test.itexps.com.MySeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
